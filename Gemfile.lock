@@ -1,11 +1,11 @@
 PATH
   remote: .
   specs:
-    fluent-plugin-google-cloud-storage (1.0.2)
+    fluent-plugin-google-cloud-storage (1.1.0)
       fluent-mixin-config-placeholders (>= 0.3.0)
       fluent-mixin-plaintextformatter (>= 0.2.1)
       fluentd (~> 0.12.0)
-      google-api-client (> 0.9)
+      google-api-client (~> 0.9.3)
       mime-types (>= 3.0)
 
 GEM

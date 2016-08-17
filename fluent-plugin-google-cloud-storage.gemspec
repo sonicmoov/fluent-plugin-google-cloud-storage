@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = "fluent-plugin-google-cloud-storage"
-  gem.version       = "1.0.2"
+  gem.version       = "1.1.0"
   gem.authors       = ["Hsiu-Fan Wang"]
   gem.email         = ["hfwang@porkbuns.net"]
   gem.summary       = %q{Fluentd plugin to write data to Google Cloud Storage}
